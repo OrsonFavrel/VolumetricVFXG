@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9cd018b16139fd848bf5ed1acce9f4e8
+timeCreated: 1524606131
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74631
+  packageName: Polyquest Worlds Full Pack Vol.1
+  packageVersion: 8.0
+  assetPath: Assets/models/Xtras/Materials/lambert2.mat
+  uploadId: 463659

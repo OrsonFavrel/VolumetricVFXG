@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 01687da6db72147638c95fe966c4553d
+timeCreated: 1487132752
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74631
+  packageName: Polyquest Worlds Full Pack Vol.1
+  packageVersion: 8.0
+  assetPath: Assets/shaders/PolyboxCore.cginc
+  uploadId: 463659
