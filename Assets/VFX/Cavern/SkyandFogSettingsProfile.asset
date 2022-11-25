@@ -203,16 +203,16 @@ MonoBehaviour:
     m_Value: 0
   sliceDistributionUniformity:
     m_OverrideState: 1
-    m_Value: 0.444
+    m_Value: 0.856
   m_FogControlMode:
     m_OverrideState: 1
     m_Value: 1
   screenResolutionPercentage:
     m_OverrideState: 1
-    m_Value: 23.3
+    m_Value: 13.7
   volumeSliceCount:
     m_OverrideState: 1
-    m_Value: 256
+    m_Value: 64
   m_VolumetricFogBudget:
     m_OverrideState: 1
     m_Value: 0.75
